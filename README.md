@@ -1,7 +1,7 @@
 # Algorithm-file-update-Python
 
 ## Project description
-I have been tasked to create an algorithm that will check whether an allow list, for IP addresses, contains IP addresses from a provided remove list. 
+The task to complete is to create an algorithm that will check whether an allow list, for IP addresses, contains IP addresses from a provided remove list. 
 
 ## Open the file that contains the allow list and create an array from the provided remove list
 ![open-file-create-array](https://github.com/gabriel-r100/Algorithm-file-update-Python/assets/55646808/daa4c4ac-f4d5-4550-abce-c8de7892ecc2)
